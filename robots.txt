@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ablandomo.github.io/sitemap.html.gz
+Sitemap: https://ablandomo.github.io/app/sitemap.html.gz
+Sitemap: https://ablandomo.github.io/assets/sitemap.html.gz
+Sitemap: https://ablandomo.github.io/css/sitemap.html.gz
+Sitemap: https://ablandomo.github.io/includes/sitemap.html.gz
+Sitemap: https://ablandomo.github.io/item/sitemap.html.gz
+Sitemap: https://ablandomo.github.io/src/sitemap.html.gz
